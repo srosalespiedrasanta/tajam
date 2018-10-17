@@ -1,13 +1,13 @@
 # Tajam
-Tajam is business page
+Tajam is business page 
 
 # Live URL
+https://tajam.github.io
+
+# Description
 
 
-# DESCRIPCION
-
-# Demo
-
+# Demo / Planning
 
 
 # Outside code
