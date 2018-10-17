@@ -11,6 +11,7 @@ Tajam is business page
 
 
 # Outside code
-Font: PLAYFAIR DISPLAY 
+Main Font: Roboto https://fonts.google.com/specimen/Roboto
+Secondary Font: PLAYFAIR DISPLAY https://www.fontsquirrel.com/fonts/playfair-display
 CSS Reset: Normalize https://necolas.github.io/normalize.css/
-Icons: Font Awensone 
+Icons: Font Awesome http://fontawesome.io/
